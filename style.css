@@ -1,0 +1,105 @@
+.logo {
+  display: block;
+  margin-top: -15px;
+  width: 2vw;
+  height: 2vw;
+}
+
+nav {
+  background-color: rgb(247, 86, 86);
+  margin: auto;
+  margin-top: none;
+  max-width: 80vh;
+  border-radius: 5px;
+
+}
+
+.logo-font {
+  font-family: "Sedgwick Ave", cursive;
+  color: rgb(14, 15, 16);
+}
+
+.body {
+  display: block;
+  margin: auto;
+  height: 60vh;
+}
+
+.container {
+  background-color: rgba(222, 218, 239, 0.952);
+  display: block;
+  margin-top: -20px;
+  margin: auto;
+  height: 80vh;
+  margin-top: none;
+  max-width: 80vh;
+  overflow-y: auto;
+  border-radius: 5px;
+
+
+}
+
+.message {
+  background-color: #ebf5f6;
+  padding: 1vw 1vw 1vw 1vw;
+  word-wrap: break-word;
+  max-width: 24%;
+  width: 20%;
+  margin-top: 1vw;
+  margin-bottom: 1vw;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  border-radius: 4px;
+  font-size: 20px;
+}
+
+.left {
+  float: left;
+  clear: both;
+}
+
+.right {
+  float: right;
+  clear: both;
+}
+
+.middle {
+  display: block;
+  margin: auto;
+  clear: both;
+  text-align: center;
+  padding: auto;
+}
+
+.send {
+  display: block;
+  margin: auto;
+
+  max-width: 80vh;
+  margin-bottom: none;
+}
+
+.text {
+  width: 85%;
+  height: 6vh;
+  background-color: rgb(245, 248, 249);
+  border: black 2px solid;
+  border-radius: 4px;
+  margin-top: 1%;
+}
+
+.form {
+  max-width: 100%;
+  margin: auto;
+  padding: auto;
+}
+
+.btn {
+  width: 9vh;
+  height: 9vh;
+  border-radius: 50%;
+  margin-left: 1vh;
+
+  background-color: rgb(247, 46, 46);
+  color: rgb(8, 7, 7);
+}
